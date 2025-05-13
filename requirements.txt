@@ -1,0 +1,7 @@
+requests
+auto_py_to_exe
+pyinstaller
+pycryptodome
+cryptography
+Crypto.Cipher
+pycryptodome
